@@ -1,0 +1,15 @@
+Rate,Percentage,Rank,Campaign
+i-rate,1,1,Herbst
+i-rate,3,2,Herbst
+i-rate,5,3,Herbst
+i-rate,7,4,Herbst
+i-rate,9,5,Herbst
+i-rate,11,6,Herbst
+i-rate,30,7,Herbst
+a-rate,2,1,Halloween
+a-rate,4,2,Halloween
+a-rate,30,3,Halloween
+a-rate,35,4,Halloween
+a-rate,23,5,Halloween
+a-rate,44,6,Halloween
+a-rate,11,7,Halloween
