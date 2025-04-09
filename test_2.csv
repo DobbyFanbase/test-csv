@@ -1,15 +1,55 @@
 Rate,Percentage,Rank,Campaign
-i-rate,1,1,Herbst
-i-rate,3,2,Herbst
-i-rate,5,3,Herbst
-i-rate,7,4,Herbst
-i-rate,9,5,Herbst
-i-rate,11,6,Herbst
-i-rate,30,7,Herbst
-a-rate,2,1,Halloween
-a-rate,4,2,Halloween
-a-rate,30,3,Halloween
-a-rate,35,4,Halloween
-a-rate,23,5,Halloween
-a-rate,44,6,Halloween
-a-rate,11,7,Halloween
+Impression Rate,1,1,Herbst
+Impression Rate,3,2,Herbst
+Impression Rate,5,3,Herbst
+Impression Rate,7,4,Herbst
+Impression Rate,9,5,Herbst
+Impression Rate,11,6,Herbst
+Impression Rate,30,7,Herbst
+Impression Rate,31,8,Herbst
+Impression Rate,32,9,Herbst
+Impression Rate,38,10,Herbst
+Impression Rate,40,11,Herbst
+Impression Rate,41,12,Herbst
+Impression Rate,41,13,Herbst
+Impression Rate,42,14,Herbst
+Impression Rate,50,15,Herbst
+Impression Rate,51,16,Herbst
+Impression Rate,53,17,Herbst
+Impression Rate,57,18,Herbst
+Impression Rate,58,19,Herbst
+Impression Rate,60,20,Herbst
+Impression Rate,63,21,Herbst
+Impression Rate,67,22,Herbst
+Impression Rate,70,23,Herbst
+Impression Rate,71,24,Herbst
+Impression Rate,79,25,Herbst
+Impression Rate,82,26,Herbst
+Impression Rate,87,27,Herbst
+Activation Rate,1,1,Halloween
+Activation Rate,3,2,Halloween
+Activation Rate,5,3,Halloween
+Activation Rate,7,4,Halloween
+Activation Rate,9,5,Halloween
+Activation Rate,11,6,Halloween
+Activation Rate,30,7,Halloween
+Activation Rate,31,8,Halloween
+Activation Rate,32,9,Halloween
+Activation Rate,38,10,Halloween
+Activation Rate,40,11,Halloween
+Activation Rate,41,12,Halloween
+Activation Rate,41,13,Halloween
+Activation Rate,42,14,Halloween
+Activation Rate,50,15,Halloween
+Activation Rate,51,16,Halloween
+Activation Rate,53,17,Halloween
+Activation Rate,57,18,Halloween
+Activation Rate,58,19,Halloween
+Activation Rate,60,20,Halloween
+Activation Rate,63,21,Halloween
+Activation Rate,67,22,Halloween
+Activation Rate,70,23,Halloween
+Activation Rate,71,24,Halloween
+Activation Rate,79,25,Halloween
+Activation Rate,82,26,Halloween
+Activation Rate,87,27,Halloween
